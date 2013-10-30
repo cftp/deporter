@@ -1,0 +1,16 @@
+{
+	"name"       : "cftp/deporter",
+	"description": "Transfer posts published on one blog in a WordPress to another blog.",
+	"homepage"   : "https://github.com/cftp/deporter/",
+	"type"       : "wordpress-plugin",
+	"license"    : "GPL-2.0+",
+	"authors"    : [
+		{
+			"name"    : "Code For The People Ltd",
+			"homepage": "https://codeforthepeople.com/"
+		}
+	],
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}
